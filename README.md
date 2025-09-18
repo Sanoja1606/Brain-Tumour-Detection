@@ -58,7 +58,8 @@ streamlit run app.py
 The application will open in your default web browser, and you can start uploading images for prediction.
 
 **Sample working**
-<img width="988" height="788" alt="image" src="https://github.com/user-attachments/assets/60bf28a1-7010-49ba-9e2c-466d448e3f3b" />           <img width="1118" height="731" alt="image" src="https://github.com/user-attachments/assets/889b3e87-afd8-4bd0-942d-b47e1a222703" />
+<img width="988" height="788" alt="image" src="https://github.com/user-attachments/assets/60bf28a1-7010-49ba-9e2c-466d448e3f3b" /><img width="1118" height="731" alt="image" src="https://github.com/user-attachments/assets/889b3e87-afd8-4bd0-942d-b47e1a222703" />
+
 <img width="982" height="789" alt="image" src="https://github.com/user-attachments/assets/58c27736-d0e9-419a-86a6-335b4cb687b5" />
 
 
